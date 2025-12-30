@@ -1,4 +1,4 @@
-# cursor-agent.el
+# cursor-agent
 
 An Emacs wrapper that launches the `cursor-agent` executable in a `vterm` buffer.
 
